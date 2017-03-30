@@ -1,0 +1,37 @@
+*{
+    border: 2px dotted black;
+}
+
+body{
+  background: #4f7c48;
+  color:black;
+}
+
+.jumbotron{
+
+}
+
+#supertop{
+    background: #624e70;
+}
+
+#superbottom{
+    background: #624e70;
+}
+
+#aboutme{
+    background: #616361;
+}
+
+#portofolio{
+    background: #404240;
+}
+
+#pagename{
+    font-size: 4vw;
+}
+
+#description{
+    color:white;
+    font-size: 2vw;
+}
