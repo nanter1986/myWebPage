@@ -1,34 +1,32 @@
-*{
-    border: 2px dotted black;
-}
+
 
 body{
-  background: #4f7c48;
-  color:black;
+
 }
 
 .jumbotron{
-
+    background: rgba(141, 58, 6, 0.88);
 }
 
-#supertop{
-    background: #624e70;
+
+
+#wrapper{
+    background-image: url('../img/programming.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 640px;
 }
 
-#superbottom{
-    background: #624e70;
-}
 
-#aboutme{
-    background: #616361;
-}
 
-#portofolio{
-    background: #404240;
-}
 
 #pagename{
-    font-size: 4vw;
+    background: white;
+    font-size: 5vw;
+    border-radius: 10%;
+    border:2px black solid;
 }
 
 #description{
