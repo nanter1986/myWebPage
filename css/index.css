@@ -8,6 +8,13 @@ body{
     background: rgba(141, 58, 6, 0.88);
 }
 
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+
 
 
 #wrapper{
@@ -25,8 +32,8 @@ body{
 #pagename{
     background: white;
     font-size: 5vw;
-    border-radius: 10%;
-    border:2px black solid;
+    border-radius: 20px;
+    border:4px black solid;
 }
 
 #description{
